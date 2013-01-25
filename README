@@ -1,0 +1,5 @@
+List all the integers that appear more than once in the array (list), sorted by which appears most often to least often
+
+usage:
+python sortduplicate.py
+
